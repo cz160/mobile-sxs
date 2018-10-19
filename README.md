@@ -1,2 +1,2 @@
-# GP8-LAGOU
-一个基于gulp+webpack并且使用了RMVC结构的SPA应用框架，在其中开发拉钩项目。
+# mobile-sxs
+一个利用gulp和webpack自动化构建工具的SPA移动端网站
